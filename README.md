@@ -1,1 +1,1 @@
-# peshangaykandenawa
+# Peshangay Kandenawa
