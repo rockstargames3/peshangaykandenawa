@@ -1,5 +1,6 @@
 # Peshangay Kandenawa
 
+
 # Hisense Prodcuts
 ![image](https://github.com/user-attachments/assets/81c74b6b-363d-45a3-a9f7-f0baa02b22ad)
 # Hisense Refrigerators
@@ -19,3 +20,5 @@
 # Hisense Washing Machine
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-0NxXV1UdNhWUvX8COvoWus7pTLkGc_VFxLnM3FYRbwztZGwGuErEnP3&s=10" width="250">
+
+<img src="https://toolmart.me/cdn/shop/files/download-2025-04-14T111018.236.webp?v=1744618227" width="250">
