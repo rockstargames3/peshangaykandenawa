@@ -15,3 +15,7 @@
 <img src="https://www.wakefords.com/wp-content/uploads/2024/01/hisense-198-litre-chest-freezer-h245cfs.png" width="250">
 
 <img src="https://appliancesdeals.com.au/cdn/shop/products/hrcf297-1.jpg?v=1697339577" width="250">
+
+# Hisense Washing Machine
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-0NxXV1UdNhWUvX8COvoWus7pTLkGc_VFxLnM3FYRbwztZGwGuErEnP3&s=10" width="250">
