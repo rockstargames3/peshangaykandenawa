@@ -9,3 +9,6 @@
   </a>
 </p>
 
+# Hisense Chest Freezers 
+<img src="https://toolmart.me/cdn/shop/files/hisense-refrigator-freezer-single-door-769-l-117556.jpg?v=1735176836" width="250">
+
